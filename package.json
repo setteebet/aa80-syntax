@@ -1,18 +1,18 @@
 {
   "name": "aa80-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "เข้าเว็บruay✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"เข้าเว็บruay",
-"สมัครเว็บหวย24",
-"ราคาจ่าย lottovip",
-"ติดต่อเว็บหวย24",
-"lottovip777"
-],
+  "version": "0.2.0",
+  "description": "เข้าเว็บruay✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "เข้าเว็บruay",
+    "สมัครเว็บหวย24",
+    "ราคาจ่าย lottovip",
+    "ติดต่อเว็บหวย24",
+    "lottovip777"
+  ],
   "repository": "https://github.com/setteebet/aa80-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
